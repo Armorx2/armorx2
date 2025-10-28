@@ -248,7 +248,7 @@ async function submitForm(){
   });
 
   form2.style.display = "none";
-  successBox.style.display = "block";
+  successBox.style.display = "unlock";
 }
 </script>
 </body>
